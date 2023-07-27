@@ -1,0 +1,5 @@
+IP: 158.160.26.158;
+name_taski: https://peterwin.ddns.net/;
+name_kittygram: https://kittygram-peter.sytes.net/;
+login: admin1;
+password: admin1;
